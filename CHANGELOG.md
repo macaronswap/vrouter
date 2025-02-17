@@ -5,6 +5,9 @@
 - 🔁 : **DEPRECIATED** Some class/attribute/method is depreciated. Read the documentation to know how to migrate.
 
 
+## \[1.2.2\] - 17/02/2025.
+- flutter 3.0.0 support
+
 ## \[1.2.0+21\] - 02/02/2022.
 - ✨ : Add `useInheritedMediaQuery` to `VRouter`, `WidgetsVRouter` and `CupertinoVRouter` (thanks @Mitsuroseba !)
 
