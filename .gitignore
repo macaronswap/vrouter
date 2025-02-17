@@ -29,8 +29,6 @@
 .pub-cache/
 .pub/
 build/
-pubspec.lock
-example/pubspec.lock
 example/web
 coverage
 
